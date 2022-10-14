@@ -1,0 +1,15 @@
+C:\Users\lilac\OneDrive\文件\My code project\game project\bin\Debug\net6.0\game project.exe
+C:\Users\lilac\OneDrive\文件\My code project\game project\bin\Debug\net6.0\game project.deps.json
+C:\Users\lilac\OneDrive\文件\My code project\game project\bin\Debug\net6.0\game project.runtimeconfig.json
+C:\Users\lilac\OneDrive\文件\My code project\game project\bin\Debug\net6.0\game project.dll
+C:\Users\lilac\OneDrive\文件\My code project\game project\bin\Debug\net6.0\game project.pdb
+C:\Users\lilac\OneDrive\文件\My code project\game project\obj\Debug\net6.0\game project.csproj.AssemblyReference.cache
+C:\Users\lilac\OneDrive\文件\My code project\game project\obj\Debug\net6.0\game project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lilac\OneDrive\文件\My code project\game project\obj\Debug\net6.0\game project.AssemblyInfoInputs.cache
+C:\Users\lilac\OneDrive\文件\My code project\game project\obj\Debug\net6.0\game project.AssemblyInfo.cs
+C:\Users\lilac\OneDrive\文件\My code project\game project\obj\Debug\net6.0\game project.csproj.CoreCompileInputs.cache
+C:\Users\lilac\OneDrive\文件\My code project\game project\obj\Debug\net6.0\game project.dll
+C:\Users\lilac\OneDrive\文件\My code project\game project\obj\Debug\net6.0\refint\game project.dll
+C:\Users\lilac\OneDrive\文件\My code project\game project\obj\Debug\net6.0\game project.pdb
+C:\Users\lilac\OneDrive\文件\My code project\game project\obj\Debug\net6.0\game project.genruntimeconfig.cache
+C:\Users\lilac\OneDrive\文件\My code project\game project\obj\Debug\net6.0\ref\game project.dll
